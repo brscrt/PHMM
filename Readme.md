@@ -5,3 +5,5 @@ This project finds represents Hidden Markov Model detailed for the given sequenc
 Shows user the result and each action graphically.
 
 ![alt-tag](result.jpg)
+
+This is [the runnable jar file](phmm.jar) of the project.
