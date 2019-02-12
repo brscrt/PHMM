@@ -1,0 +1,5 @@
+S0= -GAT-T---
+S1= T---GTG--
+S2= TG-TG-GAA
+S3= --A-GC---
+S4= ----GTC--
